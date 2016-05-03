@@ -45,7 +45,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/BycVhWFD.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 150,
+          "file": "//content.jwplatform.com/videos/BycVhWFD-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 150,
+          "file": "//content.jwplatform.com/videos/BycVhWFD-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 150,
+          "file": "//content.jwplatform.com/videos/BycVhWFD-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 150,
+          "file": "//content.jwplatform.com/videos/BycVhWFD-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 150,
+          "file": "//content.jwplatform.com/videos/BycVhWFD-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 150,
           "file": "//content.jwplatform.com/videos/BycVhWFD-sj5gKDCN.mp4",
@@ -75,7 +114,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/DlpDtBPc.m3u8",
           "type": "hls"
         },
-      
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/DlpDtBPc-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/DlpDtBPc-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/DlpDtBPc-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/DlpDtBPc-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/DlpDtBPc-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 136,
           "file": "//content.jwplatform.com/videos/DlpDtBPc-sj5gKDCN.mp4",
@@ -105,7 +183,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/Hya3elUc.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 135,
+          "file": "//content.jwplatform.com/videos/Hya3elUc-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 135,
+          "file": "//content.jwplatform.com/videos/Hya3elUc-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 135,
+          "file": "//content.jwplatform.com/videos/Hya3elUc-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 135,
+          "file": "//content.jwplatform.com/videos/Hya3elUc-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 135,
+          "file": "//content.jwplatform.com/videos/Hya3elUc-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 135,
           "file": "//content.jwplatform.com/videos/Hya3elUc-sj5gKDCN.mp4",
@@ -135,7 +252,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/GuHoSIaY.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 73,
+          "file": "//content.jwplatform.com/videos/GuHoSIaY-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 73,
+          "file": "//content.jwplatform.com/videos/GuHoSIaY-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 73,
+          "file": "//content.jwplatform.com/videos/GuHoSIaY-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 73,
+          "file": "//content.jwplatform.com/videos/GuHoSIaY-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 73,
+          "file": "//content.jwplatform.com/videos/GuHoSIaY-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 73,
           "file": "//content.jwplatform.com/videos/GuHoSIaY-sj5gKDCN.mp4",
@@ -165,7 +321,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/xqZPniyf.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 155,
+          "file": "//content.jwplatform.com/videos/xqZPniyf-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 155,
+          "file": "//content.jwplatform.com/videos/xqZPniyf-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 155,
+          "file": "//content.jwplatform.com/videos/xqZPniyf-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 155,
+          "file": "//content.jwplatform.com/videos/xqZPniyf-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 155,
+          "file": "//content.jwplatform.com/videos/xqZPniyf-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 155,
           "file": "//content.jwplatform.com/videos/xqZPniyf-sj5gKDCN.mp4",
@@ -195,7 +390,47 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/s1yLgi14.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 170,
+          "file": "//content.jwplatform.com/videos/s1yLgi14-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 170,
+          "file": "//content.jwplatform.com/videos/s1yLgi14-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 170,
+          "file": "//content.jwplatform.com/videos/s1yLgi14-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 170,
+          "file": "//content.jwplatform.com/videos/s1yLgi14-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 170,
+          "file": "//content.jwplatform.com/videos/s1yLgi14-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
+        {
           "duration": 170,
           "file": "//content.jwplatform.com/videos/s1yLgi14-sj5gKDCN.mp4",
           "height": 1080,
@@ -224,7 +459,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/NrrSEJDM.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 321,
+          "file": "//content.jwplatform.com/videos/NrrSEJDM-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 321,
+          "file": "//content.jwplatform.com/videos/NrrSEJDM-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 321,
+          "file": "//content.jwplatform.com/videos/NrrSEJDM-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 321,
+          "file": "//content.jwplatform.com/videos/NrrSEJDM-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 321,
+          "file": "//content.jwplatform.com/videos/NrrSEJDM-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 321,
           "file": "//content.jwplatform.com/videos/NrrSEJDM-sj5gKDCN.mp4",
@@ -254,7 +528,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/HXcaCa3i.m3u8",
           "type": "hls"
         },
-      
+        {
+          "duration": 193,
+          "file": "//content.jwplatform.com/videos/HXcaCa3i-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 193,
+          "file": "//content.jwplatform.com/videos/HXcaCa3i-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 193,
+          "file": "//content.jwplatform.com/videos/HXcaCa3i-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 193,
+          "file": "//content.jwplatform.com/videos/HXcaCa3i-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 193,
+          "file": "//content.jwplatform.com/videos/HXcaCa3i-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 193,
           "file": "//content.jwplatform.com/videos/HXcaCa3i-sj5gKDCN.mp4",
@@ -284,7 +597,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/956FaQ4B.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 122,
+          "file": "//content.jwplatform.com/videos/956FaQ4B-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 122,
+          "file": "//content.jwplatform.com/videos/956FaQ4B-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 122,
+          "file": "//content.jwplatform.com/videos/956FaQ4B-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 122,
+          "file": "//content.jwplatform.com/videos/956FaQ4B-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 122,
+          "file": "//content.jwplatform.com/videos/956FaQ4B-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 122,
           "file": "//content.jwplatform.com/videos/956FaQ4B-sj5gKDCN.mp4",
@@ -314,7 +666,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/Tugu74TZ.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/Tugu74TZ-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/Tugu74TZ-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/Tugu74TZ-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/Tugu74TZ-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/Tugu74TZ-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 183,
           "file": "//content.jwplatform.com/videos/Tugu74TZ-sj5gKDCN.mp4",
@@ -344,7 +735,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/GWssxxvL.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 167,
+          "file": "//content.jwplatform.com/videos/GWssxxvL-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 167,
+          "file": "//content.jwplatform.com/videos/GWssxxvL-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 167,
+          "file": "//content.jwplatform.com/videos/GWssxxvL-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 167,
+          "file": "//content.jwplatform.com/videos/GWssxxvL-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 167,
+          "file": "//content.jwplatform.com/videos/GWssxxvL-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 167,
           "file": "//content.jwplatform.com/videos/GWssxxvL-sj5gKDCN.mp4",
@@ -374,7 +804,47 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/T5tCgL42.m3u8",
           "type": "hls"
         },
-              {
+        {
+          "duration": 132,
+          "file": "//content.jwplatform.com/videos/T5tCgL42-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 132,
+          "file": "//content.jwplatform.com/videos/T5tCgL42-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 132,
+          "file": "//content.jwplatform.com/videos/T5tCgL42-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 132,
+          "file": "//content.jwplatform.com/videos/T5tCgL42-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 132,
+          "file": "//content.jwplatform.com/videos/T5tCgL42-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
+        {
           "duration": 132,
           "file": "//content.jwplatform.com/videos/T5tCgL42-sj5gKDCN.mp4",
           "height": 1080,
@@ -403,7 +873,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/FRCcELPN.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 129,
+          "file": "//content.jwplatform.com/videos/FRCcELPN-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 129,
+          "file": "//content.jwplatform.com/videos/FRCcELPN-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 129,
+          "file": "//content.jwplatform.com/videos/FRCcELPN-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 129,
+          "file": "//content.jwplatform.com/videos/FRCcELPN-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 129,
+          "file": "//content.jwplatform.com/videos/FRCcELPN-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 129,
           "file": "//content.jwplatform.com/videos/FRCcELPN-sj5gKDCN.mp4",
@@ -433,7 +942,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/KV2AvQGh.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 109,
+          "file": "//content.jwplatform.com/videos/KV2AvQGh-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 109,
+          "file": "//content.jwplatform.com/videos/KV2AvQGh-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 109,
+          "file": "//content.jwplatform.com/videos/KV2AvQGh-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 109,
+          "file": "//content.jwplatform.com/videos/KV2AvQGh-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 109,
+          "file": "//content.jwplatform.com/videos/KV2AvQGh-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 109,
           "file": "//content.jwplatform.com/videos/KV2AvQGh-sj5gKDCN.mp4",
@@ -463,7 +1011,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/4EQ2xYer.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 254,
+          "file": "//content.jwplatform.com/videos/4EQ2xYer-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 254,
+          "file": "//content.jwplatform.com/videos/4EQ2xYer-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 254,
+          "file": "//content.jwplatform.com/videos/4EQ2xYer-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 254,
+          "file": "//content.jwplatform.com/videos/4EQ2xYer-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 254,
+          "file": "//content.jwplatform.com/videos/4EQ2xYer-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 254,
           "file": "//content.jwplatform.com/videos/4EQ2xYer-sj5gKDCN.mp4",
@@ -493,7 +1080,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/4TTIQOkW.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/4TTIQOkW-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/4TTIQOkW-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/4TTIQOkW-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/4TTIQOkW-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 183,
+          "file": "//content.jwplatform.com/videos/4TTIQOkW-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 183,
           "file": "//content.jwplatform.com/videos/4TTIQOkW-sj5gKDCN.mp4",
@@ -523,7 +1149,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/BIC6cyyQ.m3u8",
           "type": "hls"
         },
-      
+        {
+          "duration": 251,
+          "file": "//content.jwplatform.com/videos/BIC6cyyQ-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 251,
+          "file": "//content.jwplatform.com/videos/BIC6cyyQ-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 251,
+          "file": "//content.jwplatform.com/videos/BIC6cyyQ-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 251,
+          "file": "//content.jwplatform.com/videos/BIC6cyyQ-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 251,
+          "file": "//content.jwplatform.com/videos/BIC6cyyQ-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 251,
           "file": "//content.jwplatform.com/videos/BIC6cyyQ-sj5gKDCN.mp4",
@@ -553,7 +1218,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/9Gx3gtN4.m3u8",
           "type": "hls"
         },
-        
+        {
+          "duration": 137,
+          "file": "//content.jwplatform.com/videos/9Gx3gtN4-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 137,
+          "file": "//content.jwplatform.com/videos/9Gx3gtN4-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 137,
+          "file": "//content.jwplatform.com/videos/9Gx3gtN4-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 137,
+          "file": "//content.jwplatform.com/videos/9Gx3gtN4-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 137,
+          "file": "//content.jwplatform.com/videos/9Gx3gtN4-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 137,
           "file": "//content.jwplatform.com/videos/9Gx3gtN4-sj5gKDCN.mp4",
@@ -583,7 +1287,46 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
           "file": "//content.jwplatform.com/manifests/m7jyFDXD.m3u8",
           "type": "hls"
         },
-       
+        {
+          "duration": 97,
+          "file": "//content.jwplatform.com/videos/m7jyFDXD-enPmwECn.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 97,
+          "file": "//content.jwplatform.com/videos/m7jyFDXD-H7nrb7vQ.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 97,
+          "file": "//content.jwplatform.com/videos/m7jyFDXD-QUtFGrOQ.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 97,
+          "file": "//content.jwplatform.com/videos/m7jyFDXD-fcyEmKZA.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 97,
+          "file": "//content.jwplatform.com/videos/m7jyFDXD-f7yZUA5a.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
         {
           "duration": 97,
           "file": "//content.jwplatform.com/videos/m7jyFDXD-sj5gKDCN.mp4",
