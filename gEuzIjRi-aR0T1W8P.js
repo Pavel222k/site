@@ -35,6 +35,75 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
   "pid": "aR0T1W8P",
   "playlist": [
     {
+      "description": "",
+      "image": "//content.jwplatform.com/thumbs/Ygu7i9E7-720.jpg?1462267564332",
+      "link": "//content.jwplatform.com/previews/Ygu7i9E7",
+      "mediaid": "Ygu7i9E7",
+      "pubdate": "Mon, 03 May 2016 09:14:46 -0000",
+      "sources": [
+        {
+          "file": "//content.jwplatform.com/manifests/Ygu7i9E7.m3u8",
+          "type": "hls"
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/Ygu7i9E7-eXJXOry7.mp4",
+          "height": 180,
+          "label": "H.264 320px",
+          "type": "video/mp4",
+          "width": 320
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/Ygu7i9E7-izwpqWdA.mp4",
+          "height": 270,
+          "label": "H.264 480px",
+          "type": "video/mp4",
+          "width": 480
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/Ygu7i9E7-oWm2iJP9.mp4",
+          "height": 406,
+          "label": "H.264 720px",
+          "type": "video/mp4",
+          "width": 720
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/Ygu7i9E7-ksocLCpy.mp4",
+          "height": 720,
+          "label": "H.264 1280px",
+          "type": "video/mp4",
+          "width": 1280
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/Ygu7i9E7-2pDa0dRc.m4a",
+          "height": -1,
+          "label": "AAC Audio",
+          "type": "audio/mp4",
+          "width": -1
+        },
+        {
+          "duration": 136,
+          "file": "//content.jwplatform.com/videos/Ygu7i9E7-KDEyu1Ci.mp4",
+          "height": 1080,
+          "label": "H.264 1920px",
+          "type": "video/mp4",
+          "width": 1920
+        }
+      ],
+      "tags": "",
+      "title": "Best of night St Petersburg.mp4",
+      "tracks": [
+        {
+          "file": "//assets-jpcust.jwpsrv.com/strips/DlpDtBPc-120.vtt",
+          "kind": "thumbnails"
+        }
+      ]
+    },
+    {
       "description": "1",
       "image": "//content.jwplatform.com/thumbs/BycVhWFD-720.jpg",
       "link": "//content.jwplatform.com/previews/BycVhWFD",
