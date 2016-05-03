@@ -95,7 +95,7 @@ jwplayer("botr_64XdJW3q_aR0T1W8P_div").setup({
         }
       ],
       "tags": "",
-      "title": "Welcome to Saint-Petersburg.mp4",
+      "title": "Best of night St Petersburg.mp4",
       "tracks": [
         {
           "file": "//assets-jpcust.jwpsrv.com/strips/DlpDtBPc-120.vtt",
