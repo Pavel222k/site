@@ -23,7 +23,7 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
   "displaytitle": true,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf",
   "height": 260,
-  "key": "1jWyBrFTlmZ763Wz+ihKDJ+YmP7SHRxUhP0FZ0lSkJSUcaNXFssr5LD1nZU=",
+  "key": "SnBtmQhh6lDU3QhL7YZVBk3WAa24wUO9fMBuz7O2w+ag71yhcPyUElU8E1w=",
   "logo": {
     "file": "http://assets-jpcust.jwpsrv.com/watermarks/wsGv96VB.png",
     "hide": false,
@@ -35,7 +35,7 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
   "pid": "aR0T1W8P",
   "playlist": [
     {
-      "description": ""1,
+      "description": "1",
       "image": "//content.jwplatform.com/thumbs/Ygu7i9E7-720.jpg?1462267564332",
       "link": "//content.jwplatform.com/previews/Ygu7i9E7",
       "mediaid": "Ygu7i9E7",
