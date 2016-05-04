@@ -310,75 +310,7 @@ jwplayer("botr_64XdJW3q_aR0T1W8P_div").setup({
         }
       ]
     },
-    {
-      "description": "",
-      "image": "//content.jwplatform.com/thumbs/Hya3elUc-720.jpg",
-      "link": "//content.jwplatform.com/previews/Hya3elUc",
-      "mediaid": "Hya3elUc",
-      "pubdate": "Mon, 02 May 2016 12:35:58 -0000",
-      "sources": [
-        {
-          "file": "//content.jwplatform.com/manifests/Hya3elUc.m3u8",
-          "type": "hls"
-        },
-        {
-          "duration": 135,
-          "file": "//content.jwplatform.com/videos/Hya3elUc-enPmwECn.mp4",
-          "height": 180,
-          "label": "H.264 320px",
-          "type": "video/mp4",
-          "width": 320
-        },
-        {
-          "duration": 135,
-          "file": "//content.jwplatform.com/videos/Hya3elUc-H7nrb7vQ.mp4",
-          "height": 270,
-          "label": "H.264 480px",
-          "type": "video/mp4",
-          "width": 480
-        },
-        {
-          "duration": 135,
-          "file": "//content.jwplatform.com/videos/Hya3elUc-QUtFGrOQ.mp4",
-          "height": 406,
-          "label": "H.264 720px",
-          "type": "video/mp4",
-          "width": 720
-        },
-        {
-          "duration": 135,
-          "file": "//content.jwplatform.com/videos/Hya3elUc-fcyEmKZA.mp4",
-          "height": 720,
-          "label": "H.264 1280px",
-          "type": "video/mp4",
-          "width": 1280
-        },
-        {
-          "duration": 135,
-          "file": "//content.jwplatform.com/videos/Hya3elUc-f7yZUA5a.m4a",
-          "height": -1,
-          "label": "AAC Audio",
-          "type": "audio/mp4",
-          "width": -1
-        },
-        {
-          "duration": 135,
-          "file": "//content.jwplatform.com/videos/Hya3elUc-sj5gKDCN.mp4",
-          "height": 1080,
-          "label": "H.264 1920px",
-          "type": "video/mp4",
-          "width": 1920
-        }
-      ],
-      "tags": "",
-      "title": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433-\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0433\u043e\u0440\u043e\u0434.mp4",
-      "tracks": [
-        {
-          "file": "//assets-jpcust.jwpsrv.com/strips/Hya3elUc-120.vtt",
-          "kind": "thumbnails"
-        }
-      ]
-    }
+    
   ],
   "plugins": {
     "http://assets-jpcust.jwpsrv.com/player/6/6124956/ping.js": {
