@@ -35,7 +35,7 @@ jwplayer("botr_gEuzIjRi_aR0T1W8P_div").setup({
   "pid": "aR0T1W8P",
   "playlist": [
     {
-      "description": "",
+      "description": "1",
       "image": "//content.jwplatform.com/thumbs/Ygu7i9E7-720.jpg?1462267564332",
       "link": "//content.jwplatform.com/previews/Ygu7i9E7",
       "mediaid": "Ygu7i9E7",
